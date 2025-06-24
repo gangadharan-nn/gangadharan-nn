@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
-**gangadharan-nn/gangadharan-nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
-## 🛠️ Skills
-
-- Programming: Java, Python, JavaScript
-- Web: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
