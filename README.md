@@ -1,4 +1,4 @@
-## Hi there :) I'm Gangadharan N.N.
+## Hi there 🙌 I'm Gangadharan, these are my skills
 
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
