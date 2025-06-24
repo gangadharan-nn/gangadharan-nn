@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there :) I'm Gangadharan N.N.
 
 ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green?logo=spring)
+![REST API](https://img.shields.io/badge/API-REST%20API-orange?logo=swagger)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi)
+![C](https://img.shields.io/badge/Code-C-blue?logo=c)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![AI](https://img.shields.io/badge/Tech-AI-red?logo=openai)
+![ML](https://img.shields.io/badge/Tech-ML-orange?logo=scikit-learn)
+![DL](https://img.shields.io/badge/Tech-DL-purple?logo=tensorflow)
+![HTML](https://img.shields.io/badge/Frontend-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Frontend-CSS3-blue?logo=css3)
+![Dart](https://img.shields.io/badge/Code-Dart-blue?logo=dart)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Backend-Express-black?logo=express)
